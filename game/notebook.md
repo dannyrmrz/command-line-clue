@@ -2,7 +2,7 @@
 
 ## Suspects
 - [ ] The Journalist
-- [ ] The Gardener
+- [ x] The Gardener
 - [ ] The Carpenter
 
 ## Weapons
